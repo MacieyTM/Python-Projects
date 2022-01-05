@@ -1,0 +1,1 @@
+words = ["computer","science","laptop","linux","windows","python","github","hangman"]
